@@ -5,7 +5,7 @@ This is the # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio Assignmen
 
 Portfolio: January 19, 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
-# 01 Framework: This framework is to be used to quickly produce a bio for a person.
+# 01 Framework: This framework is to be used to quickly produce a bio for a person. Here is a link to the Github folder https://github.com/Emjayosee/Assignment02 and a link to the deployed file with more or less live data https://emjayosee.github.io/Assignment02/.
 
 # 02 Approach:
 
